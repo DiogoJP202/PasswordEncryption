@@ -17,8 +17,7 @@ body{
 
 main{
     height: 400px;
-    min-width: 400px;
-    width: 800px;
+    width: 80vw;
 
     position: absolute;
     top: 40%;
